@@ -11,10 +11,10 @@
 
 <span>
 <a href="https://github.com/fatima-mousavi224">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-mousavi224&layout=pie&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages Pie" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-mousavi224&layout=pie&theme=tokyonight&hide_border=true" width="38%" alt="Top Languages Pie" />
 </a>
 <a href="https://github.com//fatima-mousavi224">
-  <img width="48%" src="https://github.com/fatima-mousavi224/A-photo/blob/main/my%20photo%201.jpg" alt="Fatima's Photo"/>
+  <img width="44%" src="https://github.com/fatima-mousavi224/A-photo/blob/main/my%20photo%201.jpg" alt="Fatima's Photo"/>
 </a>
 
 </span>
